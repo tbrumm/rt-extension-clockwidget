@@ -1,0 +1,9 @@
+Revision history for RT-Extension-ClockWidget
+
+1.0.0  2026-04-26
+  - Initial release
+  - Animated flip-clock (HH:MM) with CSS 3D fold animation
+  - Theme-aware widget background via Bootstrap CSS variables
+  - German date line (Wochentag, Tag. Monat Jahr)
+  - HTMX-safe: timer self-destructs when widget leaves the DOM
+  - Compatible with RT 5.0+ / RT 6
