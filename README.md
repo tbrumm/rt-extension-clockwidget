@@ -101,7 +101,7 @@ sudo systemctl start apache2
 ## Usage
 
 1. Navigate to **Home → Dashboard → Edit**
-2. Find **Uhr** in the available portlets list
+2. Find **ClockWidget** in the available portlets list
 3. Drag it into any dashboard column
 4. Click **Save**
 
